@@ -5,6 +5,7 @@ Projeto referente a trilha da RocketSeat sobre encontrar duos em jogos online.
 
 Feito com:
 • VSCode;
+• React Native;
 • Vite;
 • HTML;
 • CSS;
